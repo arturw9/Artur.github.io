@@ -109,28 +109,28 @@
   color: #e54d26;
 }
 
-.fa-php {
-  color: #563d7c;
+.fa-node-js {
+  color: #0fe419;
 }
 
 .fa-css3 {
   color: #2163af;
 }
 
-.fa-vuejs {
-  color: #4CB883;
+.fa-react {
+  color: rgb(77, 224, 235);
 }
 
 .fa-js {
   color: #F7DF1D;
 }
 
-.fa-npm {
-  color: #CD3A38;
+.fa-database {
+  color: rgb(88, 56, 205);
 }
 
-.fa-code, .fa-css3, .fa-php, .fa-vuejs,
-.fa-js, .fa-npm {
+.fa-code, .fa-css3, .fa-node-js, .fa-react,
+.fa-js, .fa-database {
   font-size: 4em;
   margin: 1rem;
 }
@@ -150,3 +150,6 @@
   margin: 1rem;
   color: #0077B5;
 }
+
+
+
