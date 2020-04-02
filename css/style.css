@@ -110,7 +110,7 @@
 }
 
 .fa-node-js {
-  color: #0fe419;
+ color: #0d8613;
 }
 
 .fa-css3 {
@@ -126,7 +126,7 @@
 }
 
 .fa-database {
-  color: rgb(88, 56, 205);
+  color: silver;
 }
 
 .fa-code, .fa-css3, .fa-node-js, .fa-react,
@@ -149,6 +149,12 @@
   font-size: 3em;
   margin: 1rem;
   color: #0077B5;
+}
+#my {
+  color: rgb(4, 73, 110);
+}
+#react {
+  color: rgb(77, 224, 235);
 }
 
 
